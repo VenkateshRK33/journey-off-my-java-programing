@@ -5,6 +5,7 @@ public static void main(String[] args) {
     System.out.println("what's web-site do u wanna check ");
     String website = sc.next();
 
+    
     if(website.endsWith(".org")){
         System.out.println("it's organisation website");
     }
